@@ -3,8 +3,6 @@ import Button from 'react-bootstrap/Button'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faTwitter, faLinkedinIn , faGoogle } from '@fortawesome/free-brands-svg-icons'
 
-import Container from 'react-bootstrap/Container'
-import { fab } from '@fortawesome/free-brands-svg-icons'
 
 const Footer = () => {
     return (
