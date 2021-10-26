@@ -15,7 +15,6 @@ function App() {
       <Skills/>
       <TeamProjects/>
       <Projects/>
-
       <Resume/>
       <Certifications/>
       <Footer />
